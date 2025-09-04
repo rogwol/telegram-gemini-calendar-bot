@@ -1,0 +1,16 @@
+# Ambiente Virtual
+venv/
+
+# Arquivos de Credenciais do Google
+credentials.json
+token.json
+
+# Arquivos de áudio temporários
+voice_message.oga
+
+# Cache e arquivos compilados do Python
+__pycache__/
+*.pyc
+
+# Arquivos de ambiente (se você usar)
+.env
